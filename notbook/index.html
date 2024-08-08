@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Not Defteri</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="login-page">
+        <h1>Giriş Yap</h1>
+        <input type="text" id="username" placeholder="Kullanıcı Adı">
+        <input type="password" id="password" placeholder="Şifre">
+        <button onclick="login()">Giriş Yap</button>
+        <button onclick="showRegister()">Kayıt Ol</button>
+    </div>
+
+    <div id="register-page" style="display: none;">
+        <h1>Kayıt Ol</h1>
+        <input type="text" id="register-username" placeholder="Kullanıcı Adı">
+        <input type="password" id="register-password" placeholder="Şifre">
+        <button onclick="register()">Kayıt Ol</button>
+        <button onclick="showLogin()">Geri Dön</button>
+    </div>
+
+    <div id="note-page" style="display: none;">
+        <h1>Not Defteri</h1>
+        <textarea id="note-input" placeholder="Notunuzu buraya yazın..."></textarea>
+        <button onclick="saveNote()">Kaydet</button>
+        <button onclick="logout()">Çıkış Yap</button>
+        <div id="notes-list"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
