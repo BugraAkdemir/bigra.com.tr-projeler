@@ -63,10 +63,10 @@
         <ul>
           <li><a href="/projects/duhanbilal/">Duhan Bilal Çoban || Web Şablon</a></li>
           <li><a href="/projects/hava-durumu/">Hava Durumu Uygulaması</a></li>
-          <li><a href="/projects/hesap-mak/">Hesap Makinası</a></li>
-          <li><a href="/projects/notbook/">Şifreli Not Defteri</a></li>
-          <li><a href="/projects/random/">Rasgele Sayı Üreticisi</a></li>
-          <li><a href="/projects/passwordgen/">Şifre Oluşturucu</a></li>
+          <li><a href="/projects/hesap-mak/">Hesap Makinası </a></li>
+          <li><a href="/projects/notbook/">Şifreli Not Defteri </a></li>
+          <li><a href="/projects/random/">Rasgele Sayı Üreticisi </a></li>
+          <li><a href="/projects/passwordgen/">Şifre Oluşturucu </a></li>
           <li><a href="/projects/sifre-kontrol/">Şifre Güçlülüğünü Kontrol Eder</a></li>
           <li><a href="/projects/store/">Sepet Sistemli Masaüstü Online Mağaza</a></li>
           <li><a href="/projects/snakegame/">Yılan Oyunu || Tısssss</a></li>
