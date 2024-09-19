@@ -70,7 +70,7 @@
           <li><a href="/projects/sifre-kontrol/">Şifre Güçlülüğünü Kontrol Eder</a></li>
           <li><a href="/projects/store/">Sepet Sistemli Masaüstü Online Mağaza</a></li>
           <li><a href="/projects/snakegame/">Yılan Oyunu || Tısssss</a></li>
-          li><a href="/projects/chat/">Chat Uygulamasi</a></li>
+          li><a href="https://chat.bugraa.com">Chat Uygulamasi</a></li>
         </ul>
       </div>
     </div>
